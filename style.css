@@ -159,3 +159,19 @@ footer .creditos a:hover {
     text-decoration: none;
     color: rgb(0, 190, 190);
 }
+
+@media screen and (max-width: 768px) {
+    .titulo h1{
+        top: 0%;
+        font-size: 30px;
+    }
+    .titulo {
+        top: 0vh;
+    }
+    .titulo h1:hover {
+        font-size: 35px;
+    }
+    footer .creditos {
+        padding: 30px;
+    }
+}
