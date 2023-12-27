@@ -108,7 +108,7 @@ ul li:hover span{
 .titulo {
     position: absolute;
     margin: 20PX auto;
-    top: 15vh;
+    top: 0;
 }
 
 .titulo h1{
